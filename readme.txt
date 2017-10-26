@@ -1,0 +1,1 @@
+This is a starting project of a new website.
