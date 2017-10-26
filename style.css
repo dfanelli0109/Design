@@ -1,0 +1,26 @@
+body {
+  font-size: 1.3em;
+  color: white;
+  background-color: #000;
+}
+
+.jumbotron {
+  color: #000;
+}
+
+button:hover {
+  background-color: green;
+}
+
+
+.brandname {
+  font-weight: bolder;
+}
+
+#name {
+
+}
+
+#title {
+  letter-spacing: 5px;
+}
